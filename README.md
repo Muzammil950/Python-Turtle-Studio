@@ -15,6 +15,15 @@ It is generated using loops and mathematical angles to create a visually attract
 
 ---
 
+## 🎨 Design Preview
+
+<p align="center">
+  <img src="design1.png" width="300" style="border-radius:12px; box-shadow:0px 0px 10px cyan;"/>
+  <img src="design2.png" width="300" style="border-radius:12px; box-shadow:0px 0px 10px cyan;"/>
+</p>
+
+---
+
 ### 🔹 Technologies Used
 
 * Python 3.x
